@@ -84,7 +84,7 @@ pnpm dev
 ## 🛠 Development & Customization
 Clone the repository:
 ```bash
-git clone https://github.com/upstrima/upstrima-webui.git
+git clone https://github.com/Gain-Energy/Upstrima-MVP-WebUI
 cd upstrima-webui
 pnpm install
 pnpm dev
