@@ -1,12 +1,5 @@
 # 🛠 Upstrima WebUI - Customized AI Platform Forked from Open WebUI
 
-![GitHub repo size](https://img.shields.io/github/repo-size/upstrima/upstrima-webui)
-![GitHub language count](https://img.shields.io/github/languages/count/upstrima/upstrima-webui)
-![GitHub last commit](https://img.shields.io/github/last-commit/upstrima/upstrima-webui?color=red)
-![GitHub stars](https://img.shields.io/github/stars/upstrima/upstrima-webui?style=social)
-[![Discord](https://img.shields.io/badge/Discord-Upstrima-blue?logo=discord&logoColor=white)](https://discord.gg/upstrima)
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/upstrima)
-
 **Upstrima WebUI** is a **customized fork** of Open WebUI, optimized for **oil & gas engineering AI workflows**. It includes advanced **multi-agent AI collaboration**, **real-time AI streaming**, **RAG-powered document retrieval**, and **persistent AI memory**.
 
 🔹 **Fully Integrated with Upstrima's AI Stack**  
